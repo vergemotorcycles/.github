@@ -1,2 +1,2 @@
-# .github
-Verge Motorcycles Public Profile
+# Verge Motorcycles
+Please visit https://www.vergemotorcycles.com/
